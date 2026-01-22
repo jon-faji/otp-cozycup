@@ -29,6 +29,8 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 **Name**: JASPER BRIX C. OLPOS  
 **Email**: 202180205@psu.palawan.edu.ph
 
+<img src="https://raw.githubusercontent.com/jon-faji/otp-cozycup/main/img/86047918.jpg" width="150" style="border-radius:50%">
+
 **Name**: Fajiculay, Jonathan G.
 **Email**: 000000000@psu.palawan.edu.ph
 
