@@ -7,4 +7,5 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 - **Responsive Design**: Works on all device sizes
 - **Menu Categories**: Organized display of snacks & desserts
 - **Image Gallery**: Visual showcase of café ambiance and products
-- **Contact Form**: Direct communication channel with café staf
+- **Contact Form**: Direct communication channel with café staff
+
