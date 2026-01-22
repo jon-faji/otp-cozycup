@@ -12,3 +12,12 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 ## Screen 
 ![Home Page](na)
 *HOME PAGE WITH WELCOME MESSAGE*
+
+![Home Page](na)
+*COFFEE MENU*
+
+![Menu Page](na)
+*PASTRY MENU*
+
+![About Us Page](na)
+*OUR STORY*
