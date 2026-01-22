@@ -27,7 +27,7 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 **Email**: 202180205@psu.palawan.edu.ph
 
 **Name**: Fajiculay, Jonathan G.
-**Email**: @psu.palawan.edu.ph
+**Email**: 000000000@psu.palawan.edu.ph
 
 
 
