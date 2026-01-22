@@ -25,4 +25,5 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 ## About the Authors
 <img src="https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/brix.jpg" width="150" style="border-radius:50%">
 
-**Name**: JASPER BRIX C. OLPOS  
+  # Social Media
+**Jasper Brix**
