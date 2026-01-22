@@ -36,16 +36,15 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 **Email**: 00000000@psu.palawan.edu.ph
 
 
-  # Social Media
-**Jasper Brix**
+# Social Media
 
-[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://www.facebook.com/jaspebrix72)
+**Jasper Brix**  
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://www.facebook.com/jaspebrix72) 
 [![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)](https://github.com/jasperolpos27)
 
-**Fajiculay, Jon**
+**Fajiculay, Jon**  
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://www.facebook.com/jonz.faji) 
+[![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)](https://github.com/jon-faji)
 
-[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://www.facebook.com/jonz.faji)
-
-[![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)]( https://github.com/jon-faji)
 
 ---
