@@ -32,3 +32,5 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 [![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)](https://github.com/jasperolpos27)
 
 **Fajiculay, Jon**
+
+---
