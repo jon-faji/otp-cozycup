@@ -10,17 +10,14 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 - **Contact Form**: Direct communication channel with café staff
 
 ## Screen Captures
-![Home Page](na)
-*HOME PAGE WITH WELCOME MESSAGE*
+![Home Page](img/Home_Page.png)
+*Welcome to CozyCup Café*
 
-![Home Page](na)
-*COFFEE MENU*
+![Coffee Menu](img/Coffee_Menu.png)
+*Our Menu*
 
-![Menu Page](na)
-*PASTRY MENU*
-
-![About Us Page](na)
-*OUR STORY*
+![About Us Page](img/About_Us.png)
+*About Us*
 
 ## About the Authors
 <img src="img/fd22dde7-99d1-49ca-b442-6b2af05b43fa.jpg" width="150" style="border-radius:50%">
