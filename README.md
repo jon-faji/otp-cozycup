@@ -23,6 +23,7 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 *OUR STORY*
 
 ## About the Authors
+
 **Name**: JASPER BRIX C. OLPOS  
 **Email**: 202180205@psu.palawan.edu.ph
 
